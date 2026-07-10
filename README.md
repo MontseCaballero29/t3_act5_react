@@ -1,9 +1,5 @@
 # t3_act5_react
 
-# Portafolio Web Personal
-
-## Portafolio Web con Bootstrap
-
 **Tecnológico Nacional de México /**
 **Instituto Tecnológico de Oaxaca**
 
